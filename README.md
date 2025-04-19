@@ -1,3 +1,3 @@
-# Hardening-Windows
+# Hardening Windows
 
 In Progress...
