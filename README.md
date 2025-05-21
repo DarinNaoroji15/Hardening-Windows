@@ -2,6 +2,6 @@ In this lab project, I will successfully exploit and then harden my Windows Serv
 
 View the project phases here:
 
-Exploitation: 
+Exploitation: [Click here](https://github.com/DarinNaoroji15/Hardening-Windows/blob/main/Exploitation.md)
 
-Hardening: [Click here] [https://github.com/DarinNaoroji15/Hardening-Windows/blob/main/Hardening.md]
+Hardening: [Click here](https://github.com/DarinNaoroji15/Hardening-Windows/blob/main/Hardening.md)
