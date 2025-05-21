@@ -4,4 +4,4 @@ View the project phases here:
 
 Exploitation: 
 
-Hardening: 
+Hardening: [Click here [https://github.com/DarinNaoroji15/Hardening-Windows/blob/main/Hardening.md]
